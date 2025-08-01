@@ -33,8 +33,8 @@ A Python project that uses NLP and machine learning to classify news headlines a
 1\.  \*\*Clone the repository:\*\*
 &nbsp
  ```sh
-git clone [https://github.com/0jasbansal/Fake-News-Detection-NLP](https://github.com/0jasbansal/Fake-News-Detection-NLP) &nbsp
-&nbsp
+git clone [https://github.com/0jasbansal/Fake-News-Detection-NLP](https://github.com/0jasbansal/Fake-News-Detection-NLP) 
+
   ```
 &nbsp
 
