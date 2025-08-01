@@ -84,7 +84,6 @@ pip install -r requirements.txt
   ```
 
 
-
 ---
 
 
@@ -92,3 +91,12 @@ pip install -r requirements.txt
 ### 📊 Results
 
 \- \*\*Accuracy:\*\* `94.10%` \*(Replace with your final accuracy)\*
+
+---
+
+### DataSets
+This project uses the ISOT Fake News Dataset from the University of Victoria.
+
+-Source: ISOT Lab, University of Victoria
+
+-Citation: Ahmed, H., Traore, I., & Saad, S. (2017). "Detecting Opinion Spams and Fake News using Text and Web-Based Attributes."
