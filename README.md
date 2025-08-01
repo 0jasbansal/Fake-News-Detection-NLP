@@ -30,7 +30,7 @@ A Python project that uses NLP and machine learning to classify news headlines a
 
 
 
-1\.  \*\*Clone the repository:\*\*
+1\.  \\Clone the repository:\\
   ```sh
 git clone [https://github.com/0jasbansal/Fake-News-Detection-NLP] 
 
@@ -38,18 +38,20 @@ git clone [https://github.com/0jasbansal/Fake-News-Detection-NLP]
 
 
 
-2\.  \*\*Set up the environment:\*\*
+2\.  \\Set up the environment:\\
 
 
 &nbsp;   python -m venv venv
 
-&nbsp;   # Activate the environment (use the command for your OS)
+   ## Activate the environment (use the command for your OS)
+  ```sh
+  .\\venv\\Scripts\\Activate.ps1
+  ```
+   # or
 
-&nbsp;   .\\venv\\Scripts\\Activate.ps1
-
-&nbsp;   # or
-
-&nbsp;   source venv/bin/activate
+   ```sh
+source venv/bin/activate
+```
 
 
 
