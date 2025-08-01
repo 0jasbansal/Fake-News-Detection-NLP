@@ -1,4 +1,4 @@
-\# Fake News Detection
+# Fake News Detection
 
 
 
@@ -10,15 +10,15 @@ A Python project that uses NLP and machine learning to classify news headlines a
 
 
 
-\### 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-\- Python
+- Python
 
-\- Pandas
+- Pandas
 
-\- Scikit-learn
+- Scikit-learn
 
-\- NLTK
+- NLTK
 
 
 
@@ -26,7 +26,7 @@ A Python project that uses NLP and machine learning to classify news headlines a
 
 
 
-\### ▶️ Quickstart
+### ▶️ Quickstart
 
 
 
@@ -86,6 +86,6 @@ A Python project that uses NLP and machine learning to classify news headlines a
 
 
 
-\### 📊 Results
+### 📊 Results
 
 \- \*\*Accuracy:\*\* `94.10%` \*(Replace with your final accuracy)\*
