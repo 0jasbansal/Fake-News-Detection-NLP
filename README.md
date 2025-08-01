@@ -73,8 +73,9 @@ git clone [https://github.com/0jasbansal/Fake-News-Detection-NLP]
 
 
 
-&nbsp;   python detect.py
-
+&nbsp;   '''sh 
+python detect.py
+'''
 
 
 
