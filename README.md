@@ -41,8 +41,9 @@ git clone [https://github.com/0jasbansal/Fake-News-Detection-NLP]
 2\.  Set up the environment:
 
 
-&nbsp;   python -m venv venv
-
+  ```sh
+python -m venv venv
+```
    ## Activate the environment (use the command for your OS)
   ```sh
   .\\venv\\Scripts\\Activate.ps1
@@ -61,10 +62,12 @@ source venv/bin/activate
 
 
 
-&nbsp;   pip install -r requirements.txt
-
-&nbsp;   python -c "import nltk; nltk.download('stopwords')"
-
+```sh
+pip install -r requirements.txt
+```
+```sh
+   python -c "import nltk; nltk.download('stopwords')"
+```
 
 
 
