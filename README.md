@@ -72,8 +72,7 @@ git clone [https://github.com/0jasbansal/Fake-News-Detection-NLP]
 &nbsp;   \*(Ensure `True.csv` and `Fake.csv` are in the folder)\*
 
 
-
-&nbsp;   '''sh 
+ '''sh 
 python detect.py
 '''
 
