@@ -44,7 +44,7 @@ git clone [https://github.com/0jasbansal/Fake-News-Detection-NLP]
   ```sh
 python -m venv venv
 ```
-   ## Activate the environment (use the command for your OS)
+   Activate the environment (use the command for your OS)
   ```sh
   .\\venv\\Scripts\\Activate.ps1
   ```
