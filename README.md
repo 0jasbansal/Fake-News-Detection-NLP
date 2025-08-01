@@ -40,7 +40,6 @@ git clone [https://github.com/0jasbansal/Fake-News-Detection-NLP]
 
 2\.  \*\*Set up the environment:\*\*
 
-&nbsp;   ```sh
 
 &nbsp;   python -m venv venv
 
@@ -52,7 +51,7 @@ git clone [https://github.com/0jasbansal/Fake-News-Detection-NLP]
 
 &nbsp;   source venv/bin/activate
 
-&nbsp;   ```
+
 
 
 
